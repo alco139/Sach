@@ -1,0 +1,6 @@
+﻿  chess.c
+c:\users\alan dolán\source\repos\sach\sach\chess.c(68): warning C4101: j: neodkazovaná lokální proměnná
+c:\users\alan dolán\source\repos\sach\sach\chess.c(67): warning C4101: i: neodkazovaná lokální proměnná
+c:\users\alan dolán\source\repos\sach\sach\chess.c(118): warning C4013: vertpodmienka nedefinované; předpokládá se extern vracející int.
+c:\users\alan dolán\source\repos\sach\sach\chess.c(119): warning C4013: diagpodmienka nedefinované; předpokládá se extern vracející int.
+  Sach.vcxproj -> C:\Users\Alan Dolán\source\repos\Sach\Debug\Sach.exe
